@@ -417,7 +417,7 @@ void ReadAnalogMic()// Reading and calibrating the current dB value
   }  
   
   level = sum / num_Measure; // Calculate the average value
-  dB = (level+680) / 12.5; //Convert ADC value to dB using Regression values   
+  dB = (level+267) / 9.17; //Convert ADC value to dB using Regression values   
   
     
    
