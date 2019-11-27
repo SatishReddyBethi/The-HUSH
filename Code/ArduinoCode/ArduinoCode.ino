@@ -41,7 +41,7 @@ int minAvg = 0;
 int minItr = 0;
 int minCal = 0;
 
-int SigPin = 10;
+int SigPin = 10;//Signal Pin
 int Occupancy = 0;
 float invcmCosnt = (2*1000000)/(100*344.8); //cmDist
 void setup() {
