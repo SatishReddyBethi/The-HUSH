@@ -13,8 +13,8 @@ String apiKey = "PUO4H7WC95YNKXNZ";
 const char* logServer = "api.thingspeak.com";
 
 // Internet router credentials
-const char* ssid = "iPhone";
-const char* password = "esdee1234";
+const char* ssid = "Life of Thunder";
+const char* password = "godofthunder";
 const char* host = "http://172.20.10.13/threshold";
 const char* serverHost = "http://172.20.10.13/";
 ESP8266WebServer server(80);
